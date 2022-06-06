@@ -24,8 +24,14 @@ The Poisson process is one of the most widely-used counting processes. It is usu
 
 
 # Program :
+```
 
+```
  
 
-# Results and Output : 
+# Output : 
  
+ 
+ 
+ # Result :
+ The probability of the following are found given that the customers arrive at a bank according to a Poisson process with mean rate of 3 per minute during a time interval of 2 min. (i) exactly 4 customers arrive (ii) more than 4 customers arrive (iii) fewer than 4 customers in 2 minute arrival.
